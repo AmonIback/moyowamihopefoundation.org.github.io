@@ -500,3 +500,58 @@ footer .box {
 .price-content p a {
     color: #0a2 !important;
 }
+
+
+/* For Screens smaller than 768 pixel */
+
+@media only screen and (max-width: 768px) {
+    .carousel-caption h4 {
+        color: #0a2;
+        font-size: 12px;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+    .carousel-caption h5 {
+        color: #0a2;
+        font-size: 12px;
+        font-weight: 700;
+        border: 1px solid #0a2;
+        border-radius: 10px;
+    }
+    .carousel-caption {
+        padding-top: 70px;
+        padding-bottom: 15px;
+    }
+    #about .container p {
+        font-size: 24px;
+    }
+    #about {
+        padding: 100px 80px;
+    }
+}/* For Screens smaller than 768 pixel */
+
+@media only screen and (max-width: 768px) {
+    .carousel-caption h4 {
+        color: #0a2;
+        font-size: 12px;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+    .carousel-caption h5 {
+        color: #0a2;
+        font-size: 12px;
+        font-weight: 700;
+        border: 1px solid #0a2;
+        border-radius: 10px;
+    }
+    .carousel-caption {
+        padding-top: 70px;
+        padding-bottom: 15px;
+    }
+    #about .container p {
+        font-size: 24px;
+    }
+    #about {
+        padding: 100px 80px;
+    }
+}
