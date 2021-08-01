@@ -483,52 +483,22 @@ footer {
     align-items: center;
 }
 
-footer .container {
+/*footer .container {
     width: 100%;
     padding: 20px;
-}
+}*/
 
-footer .box {
-    width: 20%;
-}
 
-.col-md-6 .follow .address {
+
+/*.col-md-6 .follow .address {
     text-decoration: underline !important;
     font-size: 88px;
-}
+}*/
 
-.price-content p a {
-    color: #0a2 !important;
-}
+
 
 
 /* For Screens smaller than 768 pixel */
-
-@media only screen and (max-width: 768px) {
-    .carousel-caption h4 {
-        color: #0a2;
-        font-size: 12px;
-        font-weight: 700;
-        text-decoration: underline;
-    }
-    .carousel-caption h5 {
-        color: #0a2;
-        font-size: 12px;
-        font-weight: 700;
-        border: 1px solid #0a2;
-        border-radius: 10px;
-    }
-    .carousel-caption {
-        padding-top: 70px;
-        padding-bottom: 15px;
-    }
-    #about .container p {
-        font-size: 24px;
-    }
-    #about {
-        padding: 100px 80px;
-    }
-}/* For Screens smaller than 768 pixel */
 
 @media only screen and (max-width: 768px) {
     .carousel-caption h4 {
@@ -554,7 +524,9 @@ footer .box {
     #about {
         padding: 100px 80px;
     }
-    
+    /* .contact-form {
+        padding: 5px;
+    } */
     #contact {
         padding: 0.375rem 0.2rem;
     }
