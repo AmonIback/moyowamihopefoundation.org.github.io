@@ -517,12 +517,20 @@ footer {
         padding-top: 70px;
         padding-bottom: 15px;
     }
+    
+     #about {
+        padding: 100px 60px;
+    }
+    
+     #about .container{
+        padding-right: 8px;
+        padding-left: 8px;
+    }
+    
     #about .container h2 {
         font-size: 24px;
     }
-    #about {
-        padding: 100px 80px;
-    }
+   
     /* .contact-form {
         padding: 5px;
     } */
